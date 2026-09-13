@@ -1,0 +1,64 @@
+{
+  "fixture" : "Generated two-pane 1440x900 screen with English, light\/dark backgrounds, 13\/18\/32 pt text",
+  "samples" : [
+    {
+      "all_total_ms" : [
+        295.58687470853329,
+        70.597291924059391,
+        68.677125498652458,
+        92.50191692262888,
+        73.586583137512207,
+        67.825749516487122
+      ],
+      "cold_ms" : 295.58687470853329,
+      "height" : 900,
+      "last_masks_ms" : 14.142165891826153,
+      "last_ocr_ms" : 53.683583624660969,
+      "patches" : 286,
+      "scale" : 1,
+      "warm_max_ms" : 92.50191692262888,
+      "warm_median_ms" : 70.597291924059391,
+      "width" : 1440
+    },
+    {
+      "all_total_ms" : [
+        71.706249378621578,
+        71.228875778615475,
+        70.341000333428383,
+        79.015708528459072,
+        70.375332608819008,
+        82.546125166118145
+      ],
+      "cold_ms" : 71.706249378621578,
+      "height" : 1350,
+      "last_masks_ms" : 17.750708386301994,
+      "last_ocr_ms" : 64.795416779816151,
+      "patches" : 316,
+      "scale" : 1.5,
+      "warm_max_ms" : 82.546125166118145,
+      "warm_median_ms" : 71.228875778615475,
+      "width" : 2160
+    },
+    {
+      "all_total_ms" : [
+        79.566541127860546,
+        83.62712524831295,
+        82.719583064317703,
+        79.055541194975376,
+        80.961833707988262,
+        85.693958215415478
+      ],
+      "cold_ms" : 79.566541127860546,
+      "height" : 1800,
+      "last_masks_ms" : 20.631499588489532,
+      "last_ocr_ms" : 65.062458626925945,
+      "patches" : 313,
+      "scale" : 2,
+      "warm_max_ms" : 85.693958215415478,
+      "warm_median_ms" : 82.719583064317703,
+      "width" : 2880
+    }
+  ],
+  "scope" : "OCR and stroke-mask preparation only. Excludes screen capture, settle delay, compositor, and live scrolling.",
+  "system" : "Version 15.7.5 (Build 24G624)"
+}

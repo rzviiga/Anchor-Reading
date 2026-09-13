@@ -1,0 +1,195 @@
+{
+  "checks" : 88032,
+  "expected_variants" : 18,
+  "legacy_partial_boxes" : [
+    {
+      "fixture" : "Helvetica 14.0pt theme0",
+      "prefix_left_error_px" : -0.25390625
+    },
+    {
+      "fixture" : "Helvetica 14.0pt theme1",
+      "prefix_left_error_px" : -0.25390625
+    },
+    {
+      "fixture" : "Helvetica 18.0pt theme0",
+      "prefix_left_error_px" : -0.18359375
+    },
+    {
+      "fixture" : "Helvetica 18.0pt theme1",
+      "prefix_left_error_px" : -0.18359375000022737
+    },
+    {
+      "fixture" : "Helvetica 24.0pt theme0",
+      "prefix_left_error_px" : -0.578125
+    },
+    {
+      "fixture" : "Helvetica 24.0pt theme1",
+      "prefix_left_error_px" : -0.578125
+    },
+    {
+      "fixture" : "Georgia 14.0pt theme0",
+      "prefix_left_error_px" : -0.8515625
+    },
+    {
+      "fixture" : "Georgia 18.0pt theme1",
+      "prefix_left_error_px" : -1.5234374999997726
+    },
+    {
+      "fixture" : "Georgia 24.0pt theme0",
+      "prefix_left_error_px" : -1.03125
+    },
+    {
+      "fixture" : "Georgia 24.0pt theme1",
+      "prefix_left_error_px" : -1.03125
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 14.0pt theme0",
+      "prefix_left_error_px" : 0.09765625
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 14.0pt theme1",
+      "prefix_left_error_px" : 0.09765625
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 18.0pt theme0",
+      "prefix_left_error_px" : -0.69921875
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 18.0pt theme1",
+      "prefix_left_error_px" : -0.69921875
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 24.0pt theme0",
+      "prefix_left_error_px" : -0.45312499999994316
+    },
+    {
+      "fixture" : ".AppleSystemUIFont 24.0pt theme1",
+      "prefix_left_error_px" : -0.453125
+    }
+  ],
+  "native_patches" : 80,
+  "native_render_ms" : 129.64320834726095,
+  "ocr_ms" : 345.87854146957397,
+  "scope" : "Synthetic images only; no screen capture or live GUI testing.",
+  "sentence" : "Remove the dreamnia watermark in downloads.",
+  "watermark_emitted" : 13,
+  "watermarks" : [
+    {
+      "fit" : 0.90883916088818406,
+      "fixture" : "Helvetica 14.0pt theme0",
+      "font" : "Helvetica",
+      "left_error_px" : -1.25390625,
+      "prefix" : "wate",
+      "right_error_px" : -0.3984375,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.86431016915101588,
+      "fixture" : "Helvetica 14.0pt theme1",
+      "font" : "Helvetica",
+      "left_error_px" : -1.25390625,
+      "prefix" : "wate",
+      "right_error_px" : -0.3984375,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.83939110103368131,
+      "fixture" : "Helvetica 18.0pt theme0",
+      "font" : "Helvetica",
+      "left_error_px" : -1.18359375,
+      "prefix" : "wate",
+      "right_error_px" : -1.2265625,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.82693743020292554,
+      "fixture" : "Helvetica 18.0pt theme1",
+      "font" : "Helvetica",
+      "left_error_px" : -1.18359375,
+      "prefix" : "wate",
+      "right_error_px" : -1.2265625,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.876638443922239,
+      "fixture" : "Helvetica 24.0pt theme0",
+      "font" : "ArialMT",
+      "left_error_px" : -1.578125,
+      "prefix" : "wate",
+      "right_error_px" : -0.96875,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.87409150611492215,
+      "fixture" : "Helvetica 24.0pt theme1",
+      "font" : "ArialMT",
+      "left_error_px" : -1.578125,
+      "prefix" : "wate",
+      "right_error_px" : -0.96875,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.86810383511560762,
+      "fixture" : "Georgia 24.0pt theme0",
+      "font" : "Georgia",
+      "left_error_px" : -2.03125,
+      "prefix" : "wate",
+      "right_error_px" : -0.3828125,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.86472561775331724,
+      "fixture" : "Georgia 24.0pt theme1",
+      "font" : "Georgia",
+      "left_error_px" : -2.03125,
+      "prefix" : "wate",
+      "right_error_px" : -0.3828125,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.81821700396887675,
+      "fixture" : ".AppleSystemUIFont 14.0pt theme0",
+      "font" : "Helvetica",
+      "left_error_px" : -0.90234375,
+      "prefix" : "wate",
+      "right_error_px" : -1.611328125,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.87584082491451232,
+      "fixture" : ".AppleSystemUIFont 18.0pt theme0",
+      "font" : "Helvetica",
+      "left_error_px" : -1.69921875,
+      "prefix" : "wate",
+      "right_error_px" : -1.404296875,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.86323631294575143,
+      "fixture" : ".AppleSystemUIFont 18.0pt theme1",
+      "font" : "Helvetica",
+      "left_error_px" : -1.69921875,
+      "prefix" : "wate",
+      "right_error_px" : -1.404296875,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.84073689880173497,
+      "fixture" : ".AppleSystemUIFont 24.0pt theme0",
+      "font" : "ArialMT",
+      "left_error_px" : -1.453125,
+      "prefix" : "wate",
+      "right_error_px" : -1.1640625,
+      "word" : "watermark"
+    },
+    {
+      "fit" : 0.84105174319064435,
+      "fixture" : ".AppleSystemUIFont 24.0pt theme1",
+      "font" : "ArialMT",
+      "left_error_px" : -1.453125,
+      "prefix" : "wate",
+      "right_error_px" : -1.1640625,
+      "word" : "watermark"
+    }
+  ]
+}
